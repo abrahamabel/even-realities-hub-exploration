@@ -1,0 +1,23 @@
+body {
+  font-family: monospace;
+  padding: 16px;
+  background: #1a1a1a;
+  color: #e0e0e0;
+  margin: 0;
+}
+
+#status {
+  color: #4caf50;
+  font-weight: bold;
+}
+
+#log {
+  background: #111;
+  padding: 12px;
+  border-radius: 4px;
+  max-height: 400px;
+  overflow-y: auto;
+  font-size: 12px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+}

@@ -1,0 +1,19 @@
+{
+  "package_id": "com.odyssey.evenhub.helloworld",
+  "edition": "202601",
+  "name": "Hello World",
+  "version": "0.1.0",
+  "min_app_version": "0.1.0",
+  "tagline": "EvenHub SDK exploration and hello world",
+  "description": "A minimal EvenHub app exploring the G2 SDK — list navigation, text updates, and event handling.",
+  "author": "Abraham Abel Boodala",
+  "entrypoint": "index.html",
+  "permissions": {
+    "network": [
+      "evenhub.evenrealities.com"
+    ],
+    "fs": [
+      "./assets"
+    ]
+  }
+}
